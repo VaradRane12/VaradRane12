@@ -25,7 +25,7 @@
 
 | 🔥 GitHub Streak | 🧠 Top Languages |
 |------------------|------------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaradRane1212&theme=tokyonight)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaradRane12&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaradRane12&theme=tokyonight)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaradRane12&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
