@@ -2,7 +2,12 @@
 
 🎓 S.Y. B.Tech Information Technology | PCCoE, Pune  
 💻 Passionate about Data Science • Embedded Systems • AI/ML • Full Stack Dev  
-🛠 Currently building: MQTT/ESP-NOW based IoT systems, Animal Welfare Platform, E-commerce backend  
+🛠 Currently Building
+
+### 🛠 Currently Building
+
+- [MQTT/ESP-NOW Based IoT Systems](https://github.com/VaradRane12/Home-Automation)
+- [F1 Analytics Dashboard](https://github.com/VaradRane12/F1nalyze)
 
 ---
 
@@ -35,5 +40,5 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-rane1244/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:varadjrane@gmail.com)
