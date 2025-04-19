@@ -2,7 +2,6 @@
 
 🎓 S.Y. B.Tech Information Technology | PCCoE, Pune  
 💻 Passionate about Data Science • Embedded Systems • AI/ML • Full Stack Dev  
-🛠 Currently Building
 
 ### 🛠 Currently Building
 
