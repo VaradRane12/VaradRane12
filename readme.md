@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Varad Rane
 
-🎓 S.Y. B.Tech Information Technology | PCCoE, Pune  
+🎓 T.Y. B.Tech Information Technology | PCCoE, Pune  
 💻 Passionate about Data Science • Embedded Systems • AI/ML • Full Stack Dev  
 
 ### 🛠 Currently Building
