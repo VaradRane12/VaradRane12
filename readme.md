@@ -23,13 +23,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-| 🔥 GitHub Streak | 🧠 Top Languages |
-|------------------|------------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaradRane12&theme=tokyonight)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaradRane12&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
