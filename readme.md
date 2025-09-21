@@ -1,16 +1,10 @@
 # Hey there! I'm Varad Rane
-
-🎓 T.Y. B.Tech Information Technology | PCCoE, Pune  
-💻 Passionate about Data Science • Embedded Systems • AI/ML • Full Stack Dev  
-
-### 🛠 Currently Building
-
-- [Raspberrypi Based Motion Detection Security Camera](https://github.com/VaradRane12/Motion-Activated-Security-Camera)
-- [F1 Analytics Dashboard](https://github.com/VaradRane12/F1nalyze)
+T.Y. B.Tech Information Technology | PCCoE, Pune  
+Passionate about Data Science • Embedded Systems • AI/ML • Full Stack Dev  
 
 ---
 
-## 🔧 Languages & Tools I Work With
+## Languages & Tools I Work With
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -25,19 +19,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-| 🔥 GitHub Streak | 🧠 Top Languages |
+| GitHub Streak | Top Languages |
 |------------------|------------------|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaradRane12&theme=tokyonight)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaradRane12&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 [![Varad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VaradRane12&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-rane1244/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:varadjrane@gmail.com)
